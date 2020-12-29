@@ -1,0 +1,22 @@
+body {
+    background-color: dimgray;
+    margin: 0px;
+    padding: 0px;
+}
+
+#myCanvas {
+    background-color: black;
+    border: 2px solid white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -300px;
+    margin-top: -200px;
+}
+
+#win {
+    color: black;
+    font-family: monospace;
+    text-align: center;
+    display: none;
+}
